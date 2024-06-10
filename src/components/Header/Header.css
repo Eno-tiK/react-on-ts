@@ -1,0 +1,8 @@
+.HeaderBtn {
+    border-radius: 50px;
+    font-size: 15px;
+    margin: 2px;
+    padding: 10px;
+    border-color: gray;
+    border-width: 2px;
+}

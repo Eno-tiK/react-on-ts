@@ -1,0 +1,12 @@
+.canvas2D {
+    margin-left: 520px; 
+}
+
+.beautyDiv {
+    display: flex;
+    margin-top: 10px;
+}
+
+.beautyButton {
+    font-size: 15px;
+}

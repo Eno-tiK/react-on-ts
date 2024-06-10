@@ -1,0 +1,12 @@
+.canvas3D {
+    margin-left: 20%;
+    border-radius: 25px;
+}
+
+.Graph3D {
+    display: flex;
+}
+
+.gp3d {
+    color: #000;
+}
